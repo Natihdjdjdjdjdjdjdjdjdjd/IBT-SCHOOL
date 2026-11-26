@@ -1,0 +1,6 @@
+Abel,200
+Sara,500
+Natoli,300
+Abel,100
+Sara,250
+David,400

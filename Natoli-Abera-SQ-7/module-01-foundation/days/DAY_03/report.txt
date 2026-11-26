@@ -1,0 +1,4 @@
+Sara: 750.0 ETB
+David: 400.0 ETB
+Abel: 300.0 ETB
+Natoli: 300.0 ETB
